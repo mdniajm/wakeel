@@ -98,17 +98,10 @@ a {
 
 /*=======navigation section start========*/
 
-/*nav {
-  
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: #fff;
-  padding: .5rem 1rem;
-  z-index: 1000;
-}*/
+
 nav{
   z-index: 999999999999 !important;
+  float: left;
 }
 .nav-ul {
   display: flex;
