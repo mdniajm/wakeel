@@ -101,7 +101,7 @@ a {
 
 nav{
   z-index: 999999999999 !important;
-  float: left;
+  float: right;
 }
 .nav-ul {
   display: flex;
